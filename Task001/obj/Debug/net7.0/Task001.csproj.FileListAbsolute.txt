@@ -1,0 +1,15 @@
+L:\Projects_C#\Repo\Examples\Task001\bin\Debug\net7.0\Task001.exe
+L:\Projects_C#\Repo\Examples\Task001\bin\Debug\net7.0\Task001.deps.json
+L:\Projects_C#\Repo\Examples\Task001\bin\Debug\net7.0\Task001.runtimeconfig.json
+L:\Projects_C#\Repo\Examples\Task001\bin\Debug\net7.0\Task001.dll
+L:\Projects_C#\Repo\Examples\Task001\bin\Debug\net7.0\Task001.pdb
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.csproj.AssemblyReference.cache
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.AssemblyInfoInputs.cache
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.AssemblyInfo.cs
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.csproj.CoreCompileInputs.cache
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.dll
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\refint\Task001.dll
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.pdb
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\Task001.genruntimeconfig.cache
+L:\Projects_C#\Repo\Examples\Task001\obj\Debug\net7.0\ref\Task001.dll
