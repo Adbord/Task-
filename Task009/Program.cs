@@ -5,7 +5,7 @@
 // 782 -> 8
 // 918 -> 1
 
-Console.WriteLine("Задача 10 ");
+
 Console.Write("Введите трёхзначное число: ");
 int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
 string stringNumber = Convert.ToString(threeDigitNumber);
