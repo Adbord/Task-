@@ -1,4 +1,4 @@
-﻿//НОВЫЙ ТОМ 1Задача 19
+﻿// Задача 19:
 // Напишите программу, которая принимает на вход пятизначное число
 //  и проверяет, является ли оно палиндромом.
 
@@ -7,7 +7,7 @@
 // 12821 -> да
 // 23432 -> да
 
-Console.WriteLine("Введите пяизначное число: ");
+Console.Write("Введите пяизначное число: ");
 string num = Console.ReadLine();
 int app = num.Length;
 
@@ -15,15 +15,15 @@ if (app == 5)
 {
     if (num[0] == num[4] && num[1] == num[3])
     {
-        Console.WriteLine($"{num} - да");
+        Console.WriteLine($"{num} -> да");
     }
     else
     {
-        Console.WriteLine($"{num} - нет");
+        Console.WriteLine($"{num} -> нет");
     }
 }
 else
 {
-    Console.WriteLine($"ОШИБКА: {num} - не является пятизначным числом");
+    Console.WriteLine($"Это:  -> не пятизначное число!");
 } 
 
