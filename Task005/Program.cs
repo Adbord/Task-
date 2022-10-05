@@ -36,6 +36,8 @@ int InCenter(int a)
 // Задача 10:
 
 
+
+
 Console.Write("Введите трёхзначное число: ");
 int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
 string stringNumber = Convert.ToString(threeDigitNumber);
