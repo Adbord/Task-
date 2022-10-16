@@ -16,11 +16,14 @@ void FillArray(int[] array, int min, int max)
 
 void WriteArray(int[] array)
 {
+  Console.Write("[ ");
   for (int i = 0; i < array.Length; i++)
+  
   {
     Console.Write(array[i] + " ");
   }
-  Console.WriteLine();
+
+  Console.WriteLine("] ");
 }
 
 int QuantityPositive(int[] array)
