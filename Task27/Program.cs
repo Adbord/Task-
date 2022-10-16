@@ -11,8 +11,8 @@ int sum = 0;
 
 foreach (var item in number)
 {
-    sum += Convert.ToInt32(item.ToString());452
-    
+    sum += Convert.ToInt32(item.ToString());
+
 }
 
 Console.WriteLine(sum);

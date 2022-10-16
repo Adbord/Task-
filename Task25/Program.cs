@@ -9,10 +9,10 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число В: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
-int step = a;
+int number = a;
 for (int i = 1; i < b; i++)
 {
-  step = step * a;
+  number = number * a;
 }
 
-Console.Write("А в степени В = " + step);
+Console.Write("А в степени В = " + number);
